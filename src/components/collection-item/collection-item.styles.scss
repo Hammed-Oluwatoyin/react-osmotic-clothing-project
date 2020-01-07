@@ -7,11 +7,13 @@
   position: relative;
 
   .image {
+    padding:10px;
     width: 100%;
-    height: 95%;
+    height: 100%;
     background-size: cover;
     background-position: center;
     margin-bottom: 5px;
+    margin-left: 10px;
   }
 
   .custom-button {
